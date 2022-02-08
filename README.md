@@ -1,7 +1,11 @@
 # Demo
-Published [here](next-blog-ts-gamma.vercel.app) by Vercel
+Published [here](https://next-blog-ts-gamma.vercel.app) by Vercel
 
 # Note
+
+## Log 2022/02/08
+
+- update mongoDB pwd in .env.local
 
 ## Next
 
